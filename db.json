@@ -1,26 +1,29 @@
-"tasks": [
+{
+  "tasks": [
     {
-        "name": "Something to do", 
-        "done": false,
-        "priority": false
+      "name": "Something to do",
+      "done": false,
+      "priority": false
     },
     {
-        "name": "Todoooos", 
-        "done": false,
-        "priority": true
+      "name": "Todoooos",
+      "done": false,
+      "priority": true
     },
     {
-        "name": "Things", 
-        "done": false,
-        "priority": false
+      "name": "Things",
+      "done": false,
+      "priority": false
     },
     {
-        "name": "Kooo", 
-        "done": false,
-        "priority": true
+      "name": "Kooo",
+      "done": false,
+      "priority": true
     },
     {
-        "name": "Taketa", "done": true,
-        "priority": true
+      "name": "Taketa",
+      "done": true,
+      "priority": true
     }
   ]
+}
