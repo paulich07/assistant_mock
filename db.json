@@ -25,5 +25,32 @@
       "done": true,
       "priority": true
     }
+  ],
+    "tasks2": [
+    {
+      "name": "Andare alle poste",
+      "done": false,
+      "priority": false
+    },
+    {
+      "name": "Cosare",
+      "done": false,
+      "priority": true
+    },
+    {
+      "name": "Fare il Coso",
+      "done": false,
+      "priority": false
+    },
+    {
+      "name": "Hackerare la NASA",
+      "done": false,
+      "priority": true
+    },
+    {
+      "name": "Andare su Marte",
+      "done": true,
+      "priority": true
+    }
   ]
 }
