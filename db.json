@@ -1,4 +1,4 @@
-  tasks: [
+"tasks": [
     {
         "name": "Something to do", 
         "done": false,
