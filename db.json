@@ -1,23 +1,26 @@
-
   tasks: [
-    {   "name": "Something to do", 
+    {
+        "name": "Something to do", 
         "done": false,
         "priority": false
     },
-    {   "name": "Todoooos", 
+    {
+        "name": "Todoooos", 
         "done": false,
         "priority": true
     },
-    {   "name": "Things", 
+    {
+        "name": "Things", 
         "done": false,
         "priority": false
     },
-    {   "name": "Kooo", 
+    {
+        "name": "Kooo", 
         "done": false,
         "priority": true
     },
-    {   "name": "Taketa",
-        "done": true,
+    {
+        "name": "Taketa", "done": true,
         "priority": true
-    },
+    }
   ]
